@@ -1,1 +1,39 @@
-created text1.txt file
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>TVK</title>
+        <link rel="icon" href="TVK logo.png">
+
+    </head>
+    <body>
+        <img src="TVK 4.jpg" width="100px">
+        <img src="TVK 5.jpg" width="100px">
+        <center>
+        <h1>தமிழக வெற்றி கழகம்</h1> 
+        <h2>தலைவர்</h2>
+        <h3>தளபதி விஜய்</h3>
+        <h4>பிறப்பொக்கும் எல்லா உயிர்க்கும் சிறப்பொவ்வா
+            செய்தொழில் வேற்றுமை யான்.</h4>
+        <hr>
+    </center>
+    <center>
+        <img src="TVK 3.avif" alt="Vijay Image" width="600">
+        <h1>
+            <a href="https://www.youtube.com/watch?v=as86Klk5qUE">Flag Anthem </a>
+        </h1>
+        <h4>சிறுசும் பெருசும் ரசிக்குது.. சிங்கப் பெண்கள் சிரிக்குது
+            மக்களோட தொப்புள் கொடியில் மொளச்ச கொடியும் பறக்குது
+            மனசுல மக்களை வைக்கும் தலைவன் வரும் நேரமிது
+            மக்களும் அவன மனசில் வச்சு ஆடிப்பாடி கூப்பிடுது
+            சிகரம் கிடைச்ச பின்னும் இறங்கி வந்து சேவை செஞ்சு
+            நீங்க கொடுத்த எல்லாத்துக்கும் நன்றி காட்டும் காலமிது</h4>
+            <hr>
+        <img src="TVK 1.jpg" alt="Flag" width="600">
+
+    </center>
+    <center>
+        <h1>தளபதி விஜய்க்கு வாக்களியுங்கள்!</h1>
+    </center>
+
+    </body>
+</html>
